@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\source\\repos\\MPIapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D9A1C5-D696-4A68-83DB-EEF7E20AEB31}|MPIapi\\MPIapi.csproj|c:\\users\\diego\\source\\repos\\mpiapi\\mpiapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D9A1C5-D696-4A68-83DB-EEF7E20AEB31}|MPIapi\\MPIapi.csproj|solutionrelative:mpiapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D9A1C5-D696-4A68-83DB-EEF7E20AEB31}|MPIapi\\MPIapi.csproj|c:\\users\\diego\\source\\repos\\mpiapi\\mpiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D9A1C5-D696-4A68-83DB-EEF7E20AEB31}|MPIapi\\MPIapi.csproj|solutionrelative:mpiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D9A1C5-D696-4A68-83DB-EEF7E20AEB31}|MPIapi\\MPIapi.csproj|c:\\users\\diego\\source\\repos\\mpiapi\\mpiapi\\data\\orderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D9A1C5-D696-4A68-83DB-EEF7E20AEB31}|MPIapi\\MPIapi.csproj|solutionrelative:mpiapi\\data\\orderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D9A1C5-D696-4A68-83DB-EEF7E20AEB31}|MPIapi\\MPIapi.csproj|c:\\users\\diego\\source\\repos\\mpiapi\\mpiapi\\models\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D9A1C5-D696-4A68-83DB-EEF7E20AEB31}|MPIapi\\MPIapi.csproj|solutionrelative:mpiapi\\models\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D9A1C5-D696-4A68-83DB-EEF7E20AEB31}|MPIapi\\MPIapi.csproj|c:\\users\\diego\\source\\repos\\mpiapi\\mpiapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D9A1C5-D696-4A68-83DB-EEF7E20AEB31}|MPIapi\\MPIapi.csproj|solutionrelative:mpiapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\MPIapi\\MPIapi\\Program.cs",
+              "RelativeDocumentMoniker": "MPIapi\\Program.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\MPIapi\\MPIapi\\Program.cs",
+              "RelativeToolTip": "MPIapi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:50:17.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderList.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\MPIapi\\MPIapi\\Data\\OrderList.cs",
+              "RelativeDocumentMoniker": "MPIapi\\Data\\OrderList.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\MPIapi\\MPIapi\\Data\\OrderList.cs",
+              "RelativeToolTip": "MPIapi\\Data\\OrderList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:56:48.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\MPIapi\\MPIapi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "MPIapi\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\MPIapi\\MPIapi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "MPIapi\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAkwKMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:50:11.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\MPIapi\\MPIapi\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MPIapi\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\MPIapi\\MPIapi\\Models\\Order.cs",
+              "RelativeToolTip": "MPIapi\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:49:39.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\source\\repos\\MPIapi\\MPIapi\\Models\\Dto\\OrderDto.cs",
+              "RelativeDocumentMoniker": "MPIapi\\Models\\Dto\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\diego\\source\\repos\\MPIapi\\MPIapi\\Models\\Dto\\OrderDto.cs",
+              "RelativeToolTip": "MPIapi\\Models\\Dto\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:49:15.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
